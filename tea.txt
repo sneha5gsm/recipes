@@ -1,0 +1,8 @@
+TEA
+heat water 
+add sugar 
+add tea powder 
+let it boil
+add milk
+let it boil
+serve hot

@@ -1,0 +1,15 @@
+folders:
+
+- title: Recipes
+  folderitems:
+
+  -
+
+    subfolders:
+    - title: Curries
+      output: web
+      subfolderitems:
+
+      - title: Beetroot Curry
+        jurl: /curries/beetroot.html
+        ref: /recipes/curries/beetroot.md
